@@ -25,7 +25,7 @@ ex: Accusation 7: I accuse Jane, with the paper clip in the copy room!
     * You need to create a function that returns a function that specializes in displaying an alert for a particular loop iteration
     * That returned function can be set as the click listener for the h3
 * You need an array of 5 friend names
-* You need an array of 10 location names
+* You need an array of 10 place names
 * You need an array of 20 weapon/object names (feel free to be silly/absurd)
 * You will use the value of i in the loop to determine which of the above array items to use
     * Make sure you only select valid array indexes
